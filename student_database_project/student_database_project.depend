@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1779300102 source:g:\vector\c\student\stud_add.c
+	"header.h"
+
+1779303074 g:\vector\c\student\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1779300199 source:g:\vector\c\student\stud_del.c
+	"header.h"
+
+1779301267 source:g:\vector\c\student\stud_main.c
+	"header.h"
+
+1779301217 source:g:\vector\c\student\stud_others.c
+	"header.h"
+
+1779300736 source:g:\vector\c\student\stud_save.c
+	"header.h"
+
+1779303259 source:g:\vector\c\student\stud_show.c
+	"header.h"
+
+1779303137 source:g:\vector\c\student\stud_mod.c
+	"header.h"
+
