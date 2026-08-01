@@ -56,7 +56,7 @@ void sort_details(STUD *ptr)
 
     if(option=='p' || option == 'P')
     {
-        p1=ptr;
+    	p1=ptr;
         for(i=0;i<c-1;i++)
         {
             p2=p1->next;
@@ -84,7 +84,7 @@ void sort_details(STUD *ptr)
     }
     else if(option =='n' || option == 'N')
     {
-        p1=ptr;
+    	p1=ptr;
         for(i=0;i<c-1;i++)
         {
             p2=p1->next;
